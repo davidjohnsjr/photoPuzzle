@@ -39,7 +39,7 @@ var sectionHeight = h/sides;
 
 // loading up the puzzle images
 var imageObj = new Image();
-imageObj.src = 'pict2.jpg';
+imageObj.src = 'pict2.JPG';
 
 
 // creating arrays for the pieces of the puzzle to hold x, y, and piecenumber.
